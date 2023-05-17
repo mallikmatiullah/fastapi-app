@@ -11,4 +11,6 @@ docker login
 docker tag image_name:image_version registry-name/image_name:image_version
 ### docker push command
 docker push image_name
-
+## Deploying With App Platform
+### Follow the below link for Digitalocean App plateform Deployment
+https://www.howtogeek.com/devops/how-to-deploy-your-own-container-to-digitaloceans-app-platform/
